@@ -3,8 +3,7 @@ import "./Sidebar.css";
 import { assets } from "../../assets/assets";
 
 const Sidebar = () => {
-  const [extend, setExtend] = useState(false);
-  
+  const [extend, setExtend] = useState(true);
 
   return (
     <div className="sidebar">

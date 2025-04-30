@@ -42,10 +42,10 @@ const Main = () => {
                         <img src={assets.send_icon} alt="" />
                     </div>
                 </div>
+                <p className="bottom-info">
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                </p>
             </div>
-            <p className="bottom-info">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-            </p>
         </div>
     </div>
   );
